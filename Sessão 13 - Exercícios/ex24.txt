@@ -1,0 +1,14 @@
+11557 - Melão - Quantidade: 0
+18669 - Maçã - Quantidade: 5
+18556 - Sabonete - Quantidade: 15
+12375 - Shampoo - Quantidade: 0
+12663 - Pêssego - Quantidade: 3
+14846 - Uva - Quantidade: 30
+12051 - Sabão em Pó - Quantidade: 2
+19414 - Alface - Quantidade: 6
+15722 - Abacaxi - Quantidade: 4
+16992 - Limão - Quantidade: 6
+16936 - Refrigerante - Quantidade: 6
+10458 - Sorvete - Quantidade: 6
+13666 - Carne - Quantidade: 7
+10785 - Feijão - Quantidade: 3

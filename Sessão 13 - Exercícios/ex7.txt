@@ -1,0 +1,32 @@
+#*ntr*d* d* d*d*s
+
+# C*l*t*nd* *s d*d*s c*m d**s l*nh*s
+pr*nt("*l*! Q**l * s** n*m*?")
+n*m* = *np*t()  
+
+# C*l*t*nd* *s d*d*s c*m *m* l*nh*
+n*m* = *np*t("*l*! Q**l * s** n*m*? ")
+
+# *mpr*m*nd*
+pr*nt("S*j* b*m-v*nd*, %s" % (n*m*))  # F*rm* d* pr*nt *nt*g*, v*rsã* 2.x
+pr*nt("S*j* b*m-v*nd*, {0}".f*rm*t(n*m*))  # F*rm* d* pr*nt n*v*, v*rsã* 3.x
+pr*nt(f"S*j* b*m-v*nd*, {n*m*}")  # F*rm* m**s m*d*rn* **nd*, v*rsã* 3.7
+pr*nt("S*j* b*m-v*nd*, "+str(n*m*))  # F*rm* *lt*rn*t*v*
+
+# C*l*t*nd* *s d*d*s c*m d**s l*nh*s
+pr*nt("Q**l * s** *d*d* ?")
+*d*d* = *np*t()
+
+# C*l*t*nd* *s d*d*s c*m *m* l*nh*
+*d*d* = *np*t("Q**l * s** *d*d*? ")
+*d*d* = *nt(*np*t("Q**l * s** *d*d*? "))  # Já p*d* f*z*r * c*st *q**
+
+# *mpr*m*nd*
+pr*nt("%s, s** *d*d* *h %s *n*s" % (n*m*, *d*d*))  # F*rm* d* pr*nt *nt*g*, v*rsã* 2.x
+pr*nt("{0}, s** *d*d* *h {1} *n*s".f*rm*t(n*m*, *d*d*))  # F*rm* d* pr*nt n*v*, v*rsã* 3.x
+pr*nt(f"{n*m*}, s** *d*d* *h {*d*d*} *n*s")  # F*rm* m**s m*d*rn* **nd*, v*rsã* 3.7
+pr*nt(str(n*m*)+", s** *d*d* *h "+str(*d*d*)+" *n*s")  # F*rm* *lt*rn*t*v*
+
+# *mpr*m*nd* c*m c*nt*
+pr*nt(f"V*c* n*sc** *m {2019 - *nt(*d*d*)}")
+pr*nt(f"V*c* n*sc** *m {2019 - *d*d*}")  # S* * c*st f*r f**t* n* *np*t

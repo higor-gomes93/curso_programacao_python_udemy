@@ -1,0 +1,100 @@
+1º	SP	São Paulo	11.895.893
+2º	RJ	Rio de Janeiro	6.453.682
+3º	BA	Salvador	2.902.927
+4º	DF	Brasília	2.852.372
+5º	CE	Fortaleza	2.571.896
+6º	MG	Belo Horizonte	2.491.109
+7º	AM	Manaus	2.020.301
+8º	PR	Curitiba	1.864.416
+9º	PE	Recife	1.608.488
+10º	RS	Porto Alegre	1.472.482
+11º	PA	Belém	1.432.844
+12º	GO	Goiânia	1.412.364
+13º	SP	Guarulhos	1.312.197
+14º	SP	Campinas	1.154.617
+15º	MA	São Luís	1.064.197
+16º	RJ	São Gonçalo	1.031.903
+17º	AL	Maceió	1.005.319
+18º	RJ	Duque de Caxias	878.402
+19º	RN	Natal	862.044
+20º	MS	Campo Grande	843.120
+21º	PI	Teresina	840.600
+22º	SP	São Bernardo do Campo	811.489
+23º	RJ	Nova Iguaçu	806.177
+24º	PB	João Pessoa	780.738
+25º	SP	Santo André	707.613
+26º	SP	Osasco	693.271
+27º	SP	São José dos Campos	681.036
+28º	PE	Jaboatão dos Guararapes	680.943
+29º	SP	Ribeirão Preto	658.059
+30º	MG	Uberlândia	654.681
+31º	MG	Contagem	643.476
+32º	SP	Sorocaba	637.187
+33º	SE	Aracaju	623.766
+34º	BA	Feira de Santana	612.000
+35º	MT	Cuiabá	575.480
+36º	SC	Joinville	554.601
+37º	MG	Juiz de Fora	550.710
+38º	PR	Londrina	543.003
+39º	GO	Aparecida de Goiânia	511.323
+40º	PA	Ananindeua	499.776
+41º	RJ	Niterói	495.470
+42º	RO	Porto Velho	494.013
+43º	RJ	Campos dos Goytacazes	480.648
+44º	RJ	Belford Roxo	479.386
+45º	ES	Serra	476.428
+46º	RS	Caxias do Sul	470.223
+47º	ES	Vila Velha	465.690
+48º	SC	Florianópolis	461.524
+49º	RJ	São João de Meriti	460.711
+50º	SP	Mauá	448.776
+51º	AP	Macapá	446.757
+52º	SP	São José do Rio Preto	438.354
+53º	SP	Santos	433.565
+54º	SP	Mogi das Cruzes	419.839
+55º	MG	Betim	412.003
+56º	SP	Diadema	409.613
+57º	PB	Campina Grande	402.912
+58º	SP	Jundiaí	397.965
+59º	PR	Maringá	391.698
+60º	MG	Montes Claros	390.212
+61º	SP	Carapicuíba	390.073
+62º	PE	Olinda	388.821
+63º	SP	Piracicaba	388.412
+64º	ES	Cariacica	378.915
+65º	SP	Bauru	364.562
+66º	AC	Rio Branco	363.928
+67º	GO	Anápolis	361.991
+68º	SP	São Vicente	353.040
+69º	ES	Vitória	352.104
+70º	CE	Caucaia	349.526
+71º	SP	Itaquaquecetuba	348.739
+72º	PE	Caruaru	342.328
+73º	RS	Pelotas	342.053
+74º	BA	Vitória da Conquista	340.199
+75º	RS	Canoas	339.979
+76º	SP	Franca	339.461
+77º	PR	Ponta Grossa	334.535
+78º	SC	Blumenau	334.002
+79º	PE	Petrolina	326.017
+80º	PE	Paulista	319.769
+81º	MG	Ribeirão das Neves	319.310
+82º	MG	Uberaba	318.813
+83º	RR	Boa Vista	314.900
+84º	PR	Cascavel	309.259
+85º	SP	Guarujá	308.989
+86º	SP	Taubaté	299.423
+87º	RJ	Petrópolis	298.017
+88º	SP	Limeira	294.128
+89º	SP	Praia Grande	293.695
+90º	PR	São José dos Pinhais	292.934
+91º	PA	Santarém	290.521
+92º	RN	Mossoró	284.288
+93º	SP	Suzano	282.441
+94º	BA	Camaçari	281.413
+95º	MG	Governador Valadares	276.995
+96º	RS	Santa Maria	274.838
+97º	RS	Gravataí	270.689
+98º	SP	Taboão da Serra	268.321
+99º	MT	Várzea Grande	265.775
+100º	TO	Palmas	265.409

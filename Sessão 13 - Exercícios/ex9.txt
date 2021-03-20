@@ -1,0 +1,179 @@
+#Entrada de dados
+
+# Coletando os dados com duas linhas
+print("Ola! Qual o seu nome?")
+nome = input()  
+
+# Coletando os dados com uma linha
+nome = input("Ola! Qual o seu nome? ")
+
+# Imprimindo
+print("Seja bem-vindo, %s" % (nome))  # Forma de print antigo, versão 2.x
+print("Seja bem-vindo, {0}".format(nome))  # Forma de print novo, versão 3.x
+print(f"Seja bem-vindo, {nome}")  # Forma mais moderna ainda, versão 3.7
+print("Seja bem-vindo, "+str(nome))  # Forma alternativa
+
+# Coletando os dados com duas linhas
+print("Qual a sua idade ?")
+idade = input()
+
+# Coletando os dados com uma linha
+idade = input("Qual a sua idade? ")
+idade = int(input("Qual a sua idade? "))  # Já pode fazer o cast aqui
+
+# Imprimindo
+print("%s, sua idade eh %s anos" % (nome, idade))  # Forma de print antigo, versão 2.x
+print("{0}, sua idade eh {1} anos".format(nome, idade))  # Forma de print novo, versão 3.x
+print(f"{nome}, sua idade eh {idade} anos")  # Forma mais moderna ainda, versão 3.7
+print(str(nome)+", sua idade eh "+str(idade)+" anos")  # Forma alternativa
+
+# Imprimindo com conta
+print(f"Voce nasceu em {2019 - int(idade)}")
+print(f"Voce nasceu em {2019 - idade}")  # Se o cast for feito no input'''
+# Int
+# Alguns operadores
+
+num = 42
+num += 1  # num = num + 1
+num *= 2  # num = num*2
+num1 = 2
+num2 = 4
+num1 // num2  # Retorna um int
+num1 / num2  # Retorna o valor real
+num1 * num2  # Multiplica
+num1 ** num2 # Elevado
+
+# Float
+# Usar sempre ponto (ex: 4.42)
+a, b, c = 1, 2, 3.23
+print(a)
+print(b)
+print(c)
+print(type(c))
+
+# Complexo
+# Atribuir o j (ex: 5j)
+complexo = 2 + 5j
+print(complexo)
+print(type(complexo))
+
+# Booleano
+
+2 constantes --> Verdadeiro e Falso
+True, False (inicial maiúscula)
+
+Operações básicas
+not
+or = um dos dois é True, print True; caso contrário, print False
+and = os dois são True, print True; caso contrário, print False
+
+status = True
+print(status)
+
+negacao = not status
+print(negacao)
+
+status2 = True
+print(status or status2)
+
+if status and status2:
+    print("oba")
+
+num1 = 4
+num2 = 5
+num3 = 6
+
+if num1 > num2 or num3 > num2:
+    print("boa")
+
+
+# String
+'''
+# Dados entre aspas simples ('a'), duplas("a"), simples triplas('''a'''), dupla tripla ("""a""")
+'''
+nome = 'Higor \nGomes'  # pula linha
+print(nome)
+
+nome = """Higor
+Gomes"""
+print(nome)
+
+nome = "Higor \" Gomes"
+print(nome)
+
+
+
+nome = "Higor Gomes"
+print(nome.upper())
+print(nome.lower())
+print(nome.split())  # transforma em lista de strings
+
+
+# ['H', 'i', 'g', 'o', 'r', ' ', 'G', 'o', 'm', 'e', 's']
+# ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
+
+nome = "Higor Gomes"
+print(nome[0:5])  # print até o n-1 --> slice de string
+print(nome[::])  # normal
+print(nome[::-1])  # inversão da string
+print(nome.split()[0])  # split -> ['Higor', 'Gomes'] --> ['0', '1']
+print(nome.replace('i', 'y'))  # subistituir
+
+'''
+'''
+Variáveis globais -> são reconhecidas no programa inteiro, seu escopo compreende tudo
+Variáveis locais -> são reconhecidas apenas no bloco onde foram declaradas, seu escopo está
+limitado ao bloco onde foi declarada
+
+Declaração de variável -> nome_da_variavel = valor_da_variavel
+
+Em Python, as variáveis são de tipagem dinâmica, ou seja, o tipo da variável não é atribuido, ele
+é inferido quando um valor é atribuído à variável
+
+# variável global
+num = 42
+print(num)
+
+#variável local, declarada localmente dentro do if
+if num > 10:
+    novo = num + 10
+    print(novo)        # como a condição do if é satisfeita, a variável novo é criada
+
+print(novo)
+
+num2 = 6
+
+if num2 > 10:
+    novo2 = num2 + 10
+    print(novo2)        # como a condição do if não é satisfeita, a variável novo2 não é criada
+
+print(novo2)  # --> dá erro
+
+
+Tipo None
+
+O tipo de dado None em Python representa o tipo sem tipo, ou poderia ser conhecido também como tipo
+vazio. Porém, falar que é um tipo sem tipo é mais apropriado.
+
+O tipo none é SEMPRE especificado com a primeira letra maiúscula.
+
+numeros = None
+
+print(numeros)
+print(type(numeros))
+
+Quando utilizamos?
+    - Podemos utilizar None quando queremos criar uma variável e inicializá-la com um tipo sem
+tipo, antes de recebermos um valor final.
+
+numeros = None
+
+print(numeros)
+print(type(numeros))
+
+numeros = 1.44, 1.34, 5,67
+print(numeros)
+print(type(numeros))
+
+Obs.: o tipo None em Python é sempre considerado como falso.
+'''
